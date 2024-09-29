@@ -1,1 +1,1 @@
-# insurance.ui
+# insuranceloginpages
